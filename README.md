@@ -3,7 +3,7 @@
 > Diagnostic SEO + AEO audit. Crawl your full sitemap, run 60+ checks per page, detect your hosting platform, build the internal link graph, output a prioritized fix list. Free version, pro adds PageSpeed Insights API, Search Console, backlink data.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 34-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 34-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-seo-audit`
 **Status:** v0.2 · Foundation tier · works with Claude Code
@@ -90,7 +90,7 @@ The skill detects whether your site is content-blog / SaaS / e-commerce / local-
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-seo-audit ~/.claude/skills/ccai-seo-audit
+git clone https://github.com/creativecore-ai/ccai-seo-audit ~/.claude/skills/ccai-seo-audit
 ```
 
 ## Usage
@@ -125,14 +125,14 @@ See [`examples/sample-audit-creativecore-ai.md`](examples/sample-audit-creativec
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (34 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (34 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-seo-audit ~/.claude/skills/ccai-seo-audit
+git clone https://github.com/creativecore-ai/ccai-seo-audit ~/.claude/skills/ccai-seo-audit
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 ## License
